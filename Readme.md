@@ -1,6 +1,6 @@
 # Kira Wiesinger
 
-![my headshot](https://github.com/ktw2128/assignments/issues/1)
+![my headshot](https://github.com/ktw2128/resume/issues/1)
 
 ## Education
 
