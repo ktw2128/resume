@@ -10,4 +10,6 @@
 
 ## Professional Interests
 
-
+1. Climate Science
+2. Data Science
+3. Ecology
